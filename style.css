@@ -9,3 +9,22 @@ body {
   background-color: lightgray;
   font-family: sans-serif;
 }
+
+section {
+  color: yellow;
+}
+
+
+h1 {
+  background-color: black;
+}
+
+h1 {
+  color: yellow;
+  text-decoration: double;
+  text-align: center;
+}
+ 
+  
+
+
