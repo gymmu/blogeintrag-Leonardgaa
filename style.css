@@ -61,6 +61,10 @@ section {
   font-family: Arial, Helvetica,
 }
 
-.Liste 1 {
-  ;
+p {
+  margin: 1%;
+}
+
+li {
+  margin: 1%;
 }
