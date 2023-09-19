@@ -25,7 +25,7 @@ h1 {
   text-align: center;
 }
  
-main{
+main {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -56,6 +56,14 @@ section {
   padding: 15px;
 }
 
+#box{
+  margin: 1%;
+  border-style: solid;
+  border-color: black;
+  padding: 5%;
+  background-color: white;
+}
+
 .link {
   text-align: center;
   color: black;
@@ -63,6 +71,7 @@ section {
   margin: 1%;
   font-family: Arial, Helvetica,
 }
+
 
 p {
   margin: 1%;
