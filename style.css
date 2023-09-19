@@ -70,7 +70,10 @@ p {
 
 #box {
   margin: 1%;
-  border-color: black;
+  border-color: yellow;
+  background-color:grey;
+  padding: 5%;
+
 }
 
  a:hover{
