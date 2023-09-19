@@ -79,10 +79,9 @@ p {
 
 #box {
   margin: 1%;
-  border-color: yellow;
-  background-color:grey;
+  border-color: black;
+  background-color:white;
   padding: 5%;
-
 }
 
  a:hover{
