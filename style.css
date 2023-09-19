@@ -57,6 +57,8 @@ section {
   margin: 1%;
   border-style: solid;
   border-color: black;
+  padding: 5%;
+  background-color: white;
 }
 
 .link {
