@@ -57,12 +57,6 @@ section {
   height: 75%
 }
 
-.text-next-to-img {
-  display: grid;
-  grid-template-columns: 70% auto; /
-  gap: 1rem; /
-}
-
 
 .titel {
   margin:1%;
