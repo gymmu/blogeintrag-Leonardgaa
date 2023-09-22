@@ -16,6 +16,8 @@ section {
 
 h1 {
   background-color: black;
+  padding: 20px;
+  margin: 20px;
 }
 
 h1 {
@@ -52,8 +54,8 @@ section {
 }
 
 .Auswärtstrikot {
-  width: 75%;
-  height: 75%
+  width: 110%;
+  height: 110%
 }
 
 
